@@ -30,7 +30,7 @@ fonts:
 <Profile />
 
 <div class="abs-br m-6 flex gap-2">
-  <GitHubIcon id="krabben16" />
+  <GitHubIcon id="krabbe16" />
 </div>
 
 ---
